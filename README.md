@@ -4,23 +4,23 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Luis+Rico!;" />
 </h1>
 
-<h3 align="center">An enthusiastic blockchain developer from colombia</h3>
+<h3 align="center">blockchain developer from colombia</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently student on **Bambu Labs(colombia) and Blockchain Bites (Perú)**
+ 🔭 I’m studying at **Avalanche Academy and  I am self-studying.**
  
- 🌱 I’m currently learning **Solidity, Web 3.0, Smart Contract**
+ 🌱 I’m currently learning **Solidity, Web 3.0, Smart Contract, TypeScript, React, Postgres, Django**
 
- 💬 Ask me about **Blockchain, Web 3.0, Solidity, Smart Contracts, Oracles or anything [here](https://github.com/LuisRIcoX/LuisRicoX/issues)**
+ 💬 Ask me about **Apis, Javascript, TypeScript, Blockchain, Web 3.0, Solidity, Smart Contracts, Oracles or anything [here](https://github.com/LuisRIcoX/LuisRicoX/issues)**
 
  
  </div>
  
 <div align="center"> 
-  <a href="chimemo200215@gmail.com@gmail.com">
+  <a href="0xchimex@gmail.com@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/luisricox0" target="_blank">
